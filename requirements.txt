@@ -1,0 +1,2 @@
+requests==2.31.0
+discord-webhook==1.2.1
