@@ -1,7 +1,9 @@
 ## ICB Manifest
 ICB Manifest Basic Tool for download Manifest files For SteamTools
+The release will have about 43k manifest files, if you don't have a database
+just use the release.
 
-This Project is fully Free If you bought this tool you got scammed
+[ This Project is fully Free If you bought this tool you got scammed. ]
 
 ## The Developers
 - [NTJQ](https://github.com/ntjq)
