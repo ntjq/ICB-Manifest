@@ -17,19 +17,25 @@ just add it to "REPOSITORIES" if you don't have a database just use the release.
 5. **Remove Webhook System**, after using the tool I noticed it's useless.
 6. **Better Fallback Mechanisms**, Additional CDNs or alternative sources.
 7. **Faster Performance**, Multithreading boosts repo checks and downloads.
-8. **Github Tokens**, for API limits Github if you using github repos, use 6 or more tokens if you are facing an API rate limit.
+8. **Github Tokens**, for API limits Github if you using github repos
 
 ## How to use
-Go to Releases to download the latest release, and install SteamTools or GreenLuma
-Then open ICB Manifest and enter the App ID to use it
+1. install [SteamTools](https://www.steamtools.net/download.html) or [GreenLuma](https://github.com/BlueAmulet/GreenLuma-2024-Manager/releases/tag/v1.3.10)
+2. download the latest version of icb manifest from [here](https://github.com/ntjq/ICB-Manifest/releases)
+3. Then open ICB Manifest add github tokens you can get it from [here](https://github.com/settings/personal-access-tokens)
+( use 6 or more tokens if you are facing an API rate limit. )
+4. choice the folder name that the manifests will download on it
+5. enter appid of your game can find it on steamdb
+6. drag the manifest and lua files to seamtools icon and rester steam
+
 Drag the files to SteamTools and restart Steam
 
 ## Development
 This program is developed using the Python programming language
 Required environment:
-1. Python 3.10 and above
+1. [Python 3.10](https://www.python.org/downloads/) and above
 2. Windows 10 and above
-3. Use Git for version management
+3. Use [Git](https://git-scm.com/downloads) for version management
 
 1. Clone the project to the local
 
