@@ -9,15 +9,15 @@ just add it to "REPOSITORIES" if you don't have a database just use the release.
 - [NTJQ](https://github.com/ntjq)
 - [Russi](https://github.com/0xRussi)
 
-## What new in 1.1 version ?
-1. **Github Token System**, if you using github repos.
-2. **Improved Rate Limit Bypass**, methods to handle GitHub's API limits.
-3. **User Configuration Options**, Allowing users to customize timeouts, workers, etc.
-4. **Better Fallback Mechanisms**, Additional CDNs or alternative sources.
-5. **Bug Fixes**, Addressing issues from previous versions.
-6. **Performance Optimizations**, Faster downloads or reduced API calls.
-7. **Security Enhancements**, Handling tokens more securely.
-8. **Remove Webhook System**, after using the tool I noticed it's useless.
+## What change in 1.1 version ?
+1. **Security Enhancements**, Handling tokens more securely.
+2. **More Reliable**, Improved request handling with retries.
+3. **Fixes**, appid checks and error handling fix frozing issue.
+4. **Performance Optimizations**, Faster downloads or reduced API calls.
+5. **Remove Webhook System**, after using the tool I noticed it's useless.
+6. **Better Fallback Mechanisms**, Additional CDNs or alternative sources.
+7. **Faster Performance**, Multithreading boosts repo checks and downloads.
+8. **Github Tokens**, for API limits Github if you using github repos \ using up 6 tokens if you are facing API rate limit.
 
 ## How to use
 Go to Releases to download the latest release, and install SteamTools or GreenLuma
