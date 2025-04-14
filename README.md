@@ -17,7 +17,7 @@ just add it to "REPOSITORIES" if you don't have a database just use the release.
 5. **Remove Webhook System**, after using the tool I noticed it's useless.
 6. **Better Fallback Mechanisms**, Additional CDNs or alternative sources.
 7. **Faster Performance**, Multithreading boosts repo checks and downloads.
-8. **Github Tokens**, for API limits Github if you using github repos \ using up 6 tokens if you are facing API rate limit.
+8. **Github Tokens**, for API limits Github if you using github repos, use 6 or more tokens if you are facing an API rate limit.
 
 ## How to use
 Go to Releases to download the latest release, and install SteamTools or GreenLuma
