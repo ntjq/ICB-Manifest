@@ -53,4 +53,4 @@ pip install -r requirements.txt
 
 ## Community and Support
 Join our Discord Server for discussions and support:
-- [Discord Server](https://discord.gg/steamtools)
+- [SteamTools Discord Server](https://discord.gg/steamtools)
