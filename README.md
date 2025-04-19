@@ -6,7 +6,7 @@ just add it to "REPOSITORIES" if you don't have a database just use the release.
 [ This Project is fully Free If you bought this tool you got scammed. ]
 
 ## The Developers
-- [NTJQ](https://github.com/ntjq)
+- [ntjq](https://github.com/ntjq)
 - [Russi](https://github.com/0xRussi)
 
 ## What change in 1.2 version ?
