@@ -25,9 +25,9 @@ just add it to "REPOSITORIES" if you don't have a database just use the release.
 2. download the latest version of icb manifest from [here](https://github.com/ntjq/ICB-Manifest/releases)
 3. create a txt file "github_tokens.txt" and put the your Github tokens, you can get it from [here](https://github.com/settings/personal-access-tokens)
 ( I recommend using 3 tokens, use 6+ tokens to avoid rate limits )
-4. choice the folder name that the manifests will download on it
-5. enter appid of your game can find it on [Steamdb](https://steamdb.info)
-6. Drag the files to SteamTools and restart Steam
+5. choice the folder name that the manifests will download on it
+6. enter appid of your game can find it on [Steamdb](https://steamdb.info)
+7. Drag the files to SteamTools and restart Steam
 
 ## Development
 This program is developed using the Python programming language
