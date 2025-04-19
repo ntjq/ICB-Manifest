@@ -1,1 +1,3 @@
-# add your github tokens here
+// Add GitHub tokens here (one per line)
+// Get tokens from: https://github.com/settings/personal-access-tokens
+// I recommend using 3 tokens, use 6+ tokens to avoid rate limits
